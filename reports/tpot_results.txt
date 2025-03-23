@@ -1,0 +1,2 @@
+Best Model Pipeline: Pipeline(steps=[('gaussiannb', GaussianNB())])
+Validation Accuracy: 1.0000

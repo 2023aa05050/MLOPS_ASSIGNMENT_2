@@ -1,0 +1,2 @@
+Best Hyperparameters: {'max_depth': 10, 'learning_rate': 0.04469890508543749, 'n_estimators': 950, 'subsample': 0.5743153973420279, 'colsample_bytree': 0.5740017241371029, 'gamma': 2.8856063480503047}
+Best Accuracy: 1.0000
