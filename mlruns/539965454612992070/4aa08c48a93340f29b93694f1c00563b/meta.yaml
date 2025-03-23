@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/Downloads/MLOPS_ASSIGNMENT_2/mlruns/539965454612992070/4aa08c48a93340f29b93694f1c00563b/artifacts
+end_time: 1742663972482
+entry_point_name: ''
+experiment_id: '539965454612992070'
+lifecycle_stage: active
+run_id: 4aa08c48a93340f29b93694f1c00563b
+run_name: debonair-mouse-701
+run_uuid: 4aa08c48a93340f29b93694f1c00563b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742663912421
+status: 3
+tags: []
+user_id: selva

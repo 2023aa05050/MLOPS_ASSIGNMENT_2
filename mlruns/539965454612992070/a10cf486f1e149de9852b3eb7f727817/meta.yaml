@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/Downloads/MLOPS_ASSIGNMENT_2/mlruns/539965454612992070/a10cf486f1e149de9852b3eb7f727817/artifacts
+end_time: 1742663630270
+entry_point_name: ''
+experiment_id: '539965454612992070'
+lifecycle_stage: active
+run_id: a10cf486f1e149de9852b3eb7f727817
+run_name: masked-perch-374
+run_uuid: a10cf486f1e149de9852b3eb7f727817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742663629737
+status: 4
+tags: []
+user_id: selva

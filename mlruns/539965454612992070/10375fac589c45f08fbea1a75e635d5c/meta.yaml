@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/Downloads/MLOPS_ASSIGNMENT_2/mlruns/539965454612992070/10375fac589c45f08fbea1a75e635d5c/artifacts
+end_time: 1742672447541
+entry_point_name: ''
+experiment_id: '539965454612992070'
+lifecycle_stage: active
+run_id: 10375fac589c45f08fbea1a75e635d5c
+run_name: selective-wren-752
+run_uuid: 10375fac589c45f08fbea1a75e635d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742672397577
+status: 3
+tags: []
+user_id: selva

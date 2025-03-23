@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/Downloads/MLOPS_ASSIGNMENT_2/mlruns/539965454612992070/4db15d2a0bcf42c18eac9e2d0751aa3a/artifacts
+end_time: 1742672135930
+entry_point_name: ''
+experiment_id: '539965454612992070'
+lifecycle_stage: active
+run_id: 4db15d2a0bcf42c18eac9e2d0751aa3a
+run_name: nervous-ray-287
+run_uuid: 4db15d2a0bcf42c18eac9e2d0751aa3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742671957063
+status: 3
+tags: []
+user_id: selva

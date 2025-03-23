@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/Downloads/MLOPS_ASSIGNMENT_2/mlruns/539965454612992070/0416fe6faef64e0aa6fc87105e597111/artifacts
+end_time: 1742663767473
+entry_point_name: ''
+experiment_id: '539965454612992070'
+lifecycle_stage: active
+run_id: 0416fe6faef64e0aa6fc87105e597111
+run_name: auspicious-grub-374
+run_uuid: 0416fe6faef64e0aa6fc87105e597111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742663767116
+status: 4
+tags: []
+user_id: selva
